@@ -15,10 +15,12 @@
     "next": "13.4.7",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "styled-components": "^6.0.1",
     "typescript": "5.1.6"
   },
   "devDependencies": {
     "@types/eslint": "^8.40.2",
+    "@types/styled-components": "^5.1.26",
     "@typescript-eslint/eslint-plugin": "^5.60.1",
     "@typescript-eslint/parser": "^5.60.1",
     "eslint": "^8.43.0",
